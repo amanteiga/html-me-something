@@ -1,0 +1,19 @@
+.intro{
+    color: black;
+}
+
+#myHeader {
+    text-decoration: underline;
+}
+
+body {
+    margin: 25px 50px 70px 100px;
+    color: teal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    padding: 25px 50px 75px 100px;
+}
+
+
